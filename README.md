@@ -47,7 +47,7 @@ This repository aims to detect and classify different types of leukemia (ALL, CL
      - **CML**: Chronic Myeloid Leukemia
      - **CLL**: Chronic Lymphocytic Leukemia
      - **ALL**: Acute Lymphoblastic Leukemia
-   - **Machine Learning Model**: Support Vector Machine (SVM) was used for classification.
+   - **Machine Learning Model**: Support Vector Machine (SVM) and Random Forest was used for classification.
 
    ![Cancer Classification](./images/cancer_classification.png)
    *Cancer classification hierarchy between different leukemia types.*
@@ -56,7 +56,7 @@ This repository aims to detect and classify different types of leukemia (ALL, CL
 
 ## Evaluation
 
-### **SVM Classification Performance**
+### **SVM and Random Forest Classification Performance**
 
 #### **Accuracy, Precision, Recall, and F1-Score for SVM**
 
