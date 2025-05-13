@@ -1,7 +1,7 @@
 # Leukemia Detection and Classification
 (On Going)
 
-This repository aims to detect and classify different types of leukemia (ALL, AML, CLL, CML) using machine learning models. The classification leverages features extracted from cell images like size, shape, and chromatin density. YOLOv8 is used for initial cancer detection, followed by segmentation and feature extraction. Various machine learning models, such as Support Vector Machines (SVM), are used for classification.
+This repository aims to detect and classify different types of leukemia (ALL, AML, CLL, CML) using **machine learning** models. The classification leverages features extracted from cell images like size, shape, and chromatin density. **YOLOv8** is used for initial cancer detection, followed by segmentation and feature extraction. Various machine learning models, such as Support Vector Machines (SVM), are used for classification.
 
 ## Dataset:
   -Soon will be published with codes
